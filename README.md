@@ -1,2 +1,2 @@
 # C-Plus-Plus-Labs
-Labs for EECS 268
+Completed Coursework Lab Assignments
